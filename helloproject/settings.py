@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://679d1b38bf44250659e625c9--chefproject.netlify.app",
 ]
 
 MIDDLEWARE = [
